@@ -21,8 +21,8 @@
     <MRRIncreasePercent>0</MRRIncreasePercent>
     <MRRMinHours>3</MRRMinHours>
     <MRRMaxHours>24</MRRMaxHours>
-    <MRRApiKey>329803a2685c2d55804782c90a02e2b8367a5e544c5e00562405ef4974f2d8d3</MRRApiKey>
-    <MRRApiSecret>73786be0f0777d1ffafe664598522e2a45b0f1bee4bac0cf25d2abcca24c84f1</MRRApiSecret>
+    <MRRApiKey>x</MRRApiKey>
+    <MRRApiSecret>x</MRRApiSecret>
     <MRRMin>0.002</MRRMin>
     <DetachedMinerDetection>True</DetachedMinerDetection>
     <MRRManagedPricing>True</MRRManagedPricing>
