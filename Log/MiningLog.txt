@@ -1,7 +1,1 @@
 
-[7/22/2018 10:29:00 PM] Setting Rig Id: 85728 Algo: lyra2rev2 disabled on MRR.
-[7/22/2018 10:29:00 PM] Found detached open miner CryptoDredge. Attempting to stop.
-[7/22/2018 10:29:02 PM] Detached miner CryptoDredge closed.
-[7/22/2018 10:29:02 PM] Error in StartMiner() Exception: Object reference not set to an instance of an object.
-
-
