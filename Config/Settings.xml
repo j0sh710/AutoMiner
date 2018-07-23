@@ -12,9 +12,9 @@
     <ProfitSelection>7</ProfitSelection>
     <StartUpMine>False</StartUpMine>
     <MonitorGPU>True</MonitorGPU>
-    <BlazeStartTime>7/22/2018 10:29:01 PM</BlazeStartTime>
-    <ZergStartTime>7/22/2018 10:29:01 PM</ZergStartTime>
-    <MRRStartTime>7/22/2018 10:29:01 PM</MRRStartTime>
+    <BlazeStartTime>NONE</BlazeStartTime>
+    <ZergStartTime>NONE</ZergStartTime>
+    <MRRStartTime>NONE</MRRStartTime>
     <ZergStartBalance>0</ZergStartBalance>
     <BlazeStartBalance>0</BlazeStartBalance>
     <MRRStartBalance>0</MRRStartBalance>
