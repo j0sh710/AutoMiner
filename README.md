@@ -4,7 +4,7 @@ AutoMiner is a C# WPF algo switching application used in conjunction with Mining
 
 # Features
 1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool and ZergPool currently)
-2. Monitors miner crashes and automatically restarts crashed.
+2. Monitors miner crashes and automatically restarts crashed miners.
 3. Monitors GPU Temperatures and Utilization. If GPU Utilization drops too low miner restart is attempted. After 6 failures automatic reboot will occur. (Only if "Monitor GPU" is checked)
 4. Manages rig availability on MiningRigRentals.com while algo switching.
 5. Launch "Pre-Run Process" prior to starting miner. Useful for overclocking per algo.
