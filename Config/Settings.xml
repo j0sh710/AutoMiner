@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting>
+    <Interval>300</Interval>
+    <GPURefreshInterval>30</GPURefreshInterval>
+    <Address>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</Address>
+    <WorkerName>AutoMiner1</WorkerName>
+    <SwitchTolerance>0</SwitchTolerance>
+    <ZergPoolEnabled>True</ZergPoolEnabled>
+    <BlazePoolEnabled>True</BlazePoolEnabled>
+    <MRREnabled>True</MRREnabled>
+    <ProfitSelection>7</ProfitSelection>
+    <StartUpMine>False</StartUpMine>
+    <MonitorGPU>True</MonitorGPU>
+    <BlazeStartTime>7/22/2018 10:29:01 PM</BlazeStartTime>
+    <ZergStartTime>7/22/2018 10:29:01 PM</ZergStartTime>
+    <MRRStartTime>7/22/2018 10:29:01 PM</MRRStartTime>
+    <ZergStartBalance>0.00459813</ZergStartBalance>
+    <BlazeStartBalance>0.00397173</BlazeStartBalance>
+    <MRRStartBalance>0.01092305</MRRStartBalance>
+    <MRRIncreasePercent>0</MRRIncreasePercent>
+    <MRRMinHours>3</MRRMinHours>
+    <MRRMaxHours>24</MRRMaxHours>
+    <MRRApiKey>329803a2685c2d55804782c90a02e2b8367a5e544c5e00562405ef4974f2d8d3</MRRApiKey>
+    <MRRApiSecret>73786be0f0777d1ffafe664598522e2a45b0f1bee4bac0cf25d2abcca24c84f1</MRRApiSecret>
+    <MRRMin>0.002</MRRMin>
+    <DetachedMinerDetection>True</DetachedMinerDetection>
+    <MRRManagedPricing>True</MRRManagedPricing>
+  </Setting>
+</Settings>
