@@ -9,7 +9,7 @@
     <ZergPoolEnabled>True</ZergPoolEnabled>
     <BlazePoolEnabled>True</BlazePoolEnabled>
     <MRREnabled>True</MRREnabled>
-    <ProfitSelection>7</ProfitSelection>
+    <ProfitSelection>0</ProfitSelection>
     <StartUpMine>False</StartUpMine>
     <MonitorGPU>True</MonitorGPU>
     <BlazeStartTime>NONE</BlazeStartTime>
@@ -26,5 +26,7 @@
     <MRRMin>0.002</MRRMin>
     <DetachedMinerDetection>True</DetachedMinerDetection>
     <MRRManagedPricing>True</MRRManagedPricing>
+    <DevFee>x=</DevFee>
+    <MRRAllAvailable>False</MRRAllAvailable>
   </Setting>
 </Settings>
