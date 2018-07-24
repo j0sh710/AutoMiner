@@ -18,3 +18,6 @@ AutoMiner is a C# WPF algo switching application used in conjunction with Mining
 3. Launch program and head to "Config" tab. Update the Miner Configuration. I recommend just enabling one or two miners at first just so you understand the whole process. Leave MRRId set to 0 unless you already have rigs configured on the MRR website. (In that case you would input your existing MRRId).
 4. After you have enabled and configured the miners you would like select your "MRR Prefered Pool" and click "Create MRR Rigs". The software will created rigs on MRR website.
 5. Save config and start mining.
+
+# Dev Fee
+1. There is a 8 minute per day dev fee (0.5%). Dev fee will not activate when rented.
