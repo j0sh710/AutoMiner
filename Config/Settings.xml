@@ -23,7 +23,7 @@
     <MRRMaxHours>24</MRRMaxHours>
     <MRRApiKey>x</MRRApiKey>
     <MRRApiSecret>x</MRRApiSecret>
-    <MRRMin>0.002</MRRMin>
+    <MRRMin>0</MRRMin>
     <DetachedMinerDetection>True</DetachedMinerDetection>
     <MRRManagedPricing>True</MRRManagedPricing>
     <DevFee>x=</DevFee>
