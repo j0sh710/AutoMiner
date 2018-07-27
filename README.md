@@ -1,7 +1,7 @@
 # Overview
 AutoMiner is a C# WPF algo switching application used in conjunction with MiningRigRentals. Depending on the Profit Selection you have selected AutoMiner will algo switch between the most profitable algos and also manage availablility of your rig on MiningRigRentals. If you rig is rented algo switching stops until the rental is complete.
 
-https://discord.gg/KteB7r
+For support check out our discord at https://discord.gg/KteB7r
 
 
 # Features
@@ -13,6 +13,7 @@ https://discord.gg/KteB7r
 6. Easily edit and change miners. Miners are not built in so you are free to use any miner you like.
 7. Manage MiningRigRentals.com pricing with Minimum limit and % Increase from algo switching pools estimate or MRR suggested pricing.
 8. Auto closes detached miners.
+9. Make all of your MiningRigRentals.com rigs available at once to increase odds of being rented and automatically disable when rented.
 
 # Set Up
 1. Unzip All Files wherever you like.
