@@ -2,14 +2,14 @@
 <Miners>
   <Miner name="x16r">
     <Algo>x16r</Algo>
-    <Enabled>True</Enabled>
-    <Path>C:\AutoMiner\Miners\z-enemy.1-12-cuda9.2\z-enemy.exe</Path>
+    <Enabled>False</Enabled>
+    <Path></Path>
     <Parameters>-a x16r</Parameters>
-    <ConnectionString>stratum+tcp://us-east01.miningrigrentals.com:50785</ConnectionString>
-    <UserString>jhanson107.83159</UserString>
+    <ConnectionString>ConnectionString</ConnectionString>
+    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>210</HashRate>
-    <MRRId>83159</MRRId>
+    <HashRate>0</HashRate>
+    <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
   <Miner name="x16s">
