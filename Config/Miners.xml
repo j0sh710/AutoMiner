@@ -51,12 +51,12 @@
   <Miner name="lyra2v2">
     <Algo>lyra2v2</Algo>
     <Enabled>True</Enabled>
-    <Path>C:\AutoMiner\Miners\CryptoDredge_0.7.0\CryptoDredge.exe</Path>
+    <Path></Path>
     <Parameters>-a lyra2v2 --no-watchdog</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>480</HashRate>
+    <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
