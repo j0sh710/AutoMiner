@@ -2,7 +2,7 @@
 AutoMiner is a C# WPF algo switching application used in conjunction with MiningRigRentals. Depending on the Profit Selection you have selected AutoMiner will algo switch between the most profitable algos and also manage availablility of your rig on MiningRigRentals. If you rig is rented algo switching stops until the rental is complete.
 
 # Community
-https://discord.gg/KteB7r
+https://discord.gg/dqASSme
 
 # Features
 1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool and ZergPool currently)
