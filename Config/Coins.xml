@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Coins>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Name>Ravencoin</Name>
+    <Algo>x16r</Algo>
+    <Host>rvn.suprnova.cc</Host>
+    <Port>6667</Port>
+    <User>jhanson107.Rig1</User>
+    <Password>x</Password>
+  </Coin>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Name>Verge_Lyra2REv2</Name>
+    <Algo>lyra2v2</Algo>
+    <Host>xvg-lyra.suprnova.cc</Host>
+    <Port>2595</Port>
+    <User>jhanson107.rig1</User>
+    <Password>x</Password>
+  </Coin>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Name>Monacoin</Name>
+    <Algo>lyra2v2</Algo>
+    <Host>mona.suprnova.cc</Host>
+    <Port>2995</Port>
+    <User>jhanson107.rig1</User>
+    <Password>x</Password>
+  </Coin>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Name>Pigeoncoin</Name>
+    <Algo>x16s</Algo>
+    <Host>pign.suprnova.cc</Host>
+    <Port>4096</Port>
+    <User>jhanson107.rig1</User>
+    <Password>x</Password>
+  </Coin>
+</Coins>
