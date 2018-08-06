@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Coins>
   <Coin>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Name>Ravencoin</Name>
     <Algo>x16r</Algo>
     <Host>rvn.suprnova.cc</Host>
@@ -10,7 +10,7 @@
     <Password>x</Password>
   </Coin>
   <Coin>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Name>Verge_Lyra2REv2</Name>
     <Algo>lyra2v2</Algo>
     <Host>xvg-lyra.suprnova.cc</Host>
@@ -19,7 +19,7 @@
     <Password>x</Password>
   </Coin>
   <Coin>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Name>Monacoin</Name>
     <Algo>lyra2v2</Algo>
     <Host>mona.suprnova.cc</Host>
@@ -28,7 +28,7 @@
     <Password>x</Password>
   </Coin>
   <Coin>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Name>Pigeoncoin</Name>
     <Algo>x16s</Algo>
     <Host>pign.suprnova.cc</Host>

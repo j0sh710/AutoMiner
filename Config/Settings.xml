@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Settings>
   <Setting>
     <Interval>300</Interval>
@@ -9,15 +9,9 @@
     <ZergPoolEnabled>True</ZergPoolEnabled>
     <BlazePoolEnabled>True</BlazePoolEnabled>
     <MRREnabled>True</MRREnabled>
-    <ProfitSelection>0</ProfitSelection>
+    <ProfitSelection>7</ProfitSelection>
     <StartUpMine>False</StartUpMine>
     <MonitorGPU>True</MonitorGPU>
-    <BlazeStartTime>NONE</BlazeStartTime>
-    <ZergStartTime>NONE</ZergStartTime>
-    <MRRStartTime>NONE</MRRStartTime>
-    <ZergStartBalance>0</ZergStartBalance>
-    <BlazeStartBalance>0</BlazeStartBalance>
-    <MRRStartBalance>0</MRRStartBalance>
     <MRRIncreasePercent>0</MRRIncreasePercent>
     <MRRMinHours>3</MRRMinHours>
     <MRRMaxHours>24</MRRMaxHours>
@@ -26,7 +20,11 @@
     <MRRMin>0</MRRMin>
     <DetachedMinerDetection>True</DetachedMinerDetection>
     <MRRManagedPricing>True</MRRManagedPricing>
-    <DevFee>x=</DevFee>
-    <MRRAllAvailable>False</MRRAllAvailable>
+    <DevFee>S6fRpH3Daxg1964z7xOvyCb8SxZJr5vT8Tsy+0LzqFM=</DevFee>
+    <MRRAllAvailable>True</MRRAllAvailable>
+    <NiceHashAddress>x</NiceHashAddress>
+    <NHApiID>x</NHApiID>
+    <NHApiKey>x</NHApiKey>
+    <NiceHashEnabled>True</NiceHashEnabled>
   </Setting>
 </Settings>

@@ -2,14 +2,14 @@
 <Miners>
   <Miner name="x16r">
     <Algo>x16r</Algo>
-    <Enabled>False</Enabled>
-    <Path></Path>
+    <Enabled>True</Enabled>
+    <Path>C:\AutoMiner\Miners\z-enemy.1-12-cuda9.2\z-enemy.exe</Path>
     <Parameters>-a x16r</Parameters>
-    <ConnectionString>ConnectionString</ConnectionString>
-    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
+    <ConnectionString>stratum+tcp://us-east01.miningrigrentals.com:50121</ConnectionString>
+    <UserString>jhanson107.83159</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
-    <MRRId>0</MRRId>
+    <HashRate>210</HashRate>
+    <MRRId>83159</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
   <Miner name="x16s">
@@ -51,12 +51,12 @@
   <Miner name="lyra2v2">
     <Algo>lyra2v2</Algo>
     <Enabled>True</Enabled>
-    <Path></Path>
+    <Path>C:\AutoMiner\Miners\CryptoDredge_0.7.0\CryptoDredge.exe</Path>
     <Parameters>-a lyra2v2 --no-watchdog</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
+    <HashRate>480</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
