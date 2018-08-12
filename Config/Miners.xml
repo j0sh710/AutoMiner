@@ -180,4 +180,16 @@
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
+  <Miner name="hashimotos">
+    <Algo>hashimotos</Algo>
+    <Enabled>True</Enabled>
+    <Path>C:\AutoMiner\Miners\Claymore's Dual Ethereum v11.9 cuda 9.1\EthDcrMiner64.exe</Path>
+    <Parameters>-esm 2 -allpools 1 -allpools 1</Parameters>
+    <ConnectionString>stratum+tcp://us-east01.miningrigrentals.com:3344</ConnectionString>
+    <UserString>jhanson107:98503</UserString>
+    <PasswordString></PasswordString>
+    <HashRate>300</HashRate>
+    <MRRId>98503</MRRId>
+    <PreRunPath></PreRunPath>
+  </Miner>
 </Miners>

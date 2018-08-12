@@ -36,4 +36,13 @@
     <User>jhanson107.rig1</User>
     <Password>x</Password>
   </Coin>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Name>Ethereum</Name>
+    <Algo>hashimotos</Algo>
+    <Host>us1.ethpool.org</Host>
+    <Port>3333</Port>
+    <User>0xCED6384A6bbbD973001D47CC368C2bb06A728A91</User>
+    <Password>x</Password>
+  </Coin>
 </Coins>
