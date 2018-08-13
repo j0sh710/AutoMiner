@@ -26,5 +26,6 @@
     <NHApiID>x</NHApiID>
     <NHApiKey>x</NHApiKey>
     <NiceHashEnabled>True</NiceHashEnabled>
+    <Region>usa</Region>
   </Setting>
 </Settings>

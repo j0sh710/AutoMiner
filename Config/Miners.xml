@@ -2,14 +2,14 @@
 <Miners>
   <Miner name="x16r">
     <Algo>x16r</Algo>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Path>C:\AutoMiner\Miners\z-enemy.1-12-cuda9.2\z-enemy.exe</Path>
     <Parameters>-a x16r</Parameters>
-    <ConnectionString>stratum+tcp://us-east01.miningrigrentals.com:50121</ConnectionString>
-    <UserString>jhanson107.83159</UserString>
+    <ConnectionString>ConnectionString</ConnectionString>
+    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>210</HashRate>
-    <MRRId>83159</MRRId>
+    <HashRate>0</HashRate>
+    <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
   <Miner name="x16s">
@@ -50,13 +50,13 @@
   </Miner>
   <Miner name="lyra2v2">
     <Algo>lyra2v2</Algo>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Path>C:\AutoMiner\Miners\CryptoDredge_0.7.0\CryptoDredge.exe</Path>
     <Parameters>-a lyra2v2 --no-watchdog</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>480</HashRate>
+    <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
@@ -108,30 +108,6 @@
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
-  <Miner name="keccakc">
-    <Algo>keccakc</Algo>
-    <Enabled>False</Enabled>
-    <Path></Path>
-    <Parameters>-a keccakc</Parameters>
-    <ConnectionString>ConnectionString</ConnectionString>
-    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
-    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
-    <MRRId>0</MRRId>
-    <PreRunPath></PreRunPath>
-  </Miner>
-  <Miner name="allium">
-    <Algo>allium</Algo>
-    <Enabled>False</Enabled>
-    <Path></Path>
-    <Parameters>-a allium</Parameters>
-    <ConnectionString>ConnectionString</ConnectionString>
-    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
-    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
-    <MRRId>0</MRRId>
-    <PreRunPath></PreRunPath>
-  </Miner>
   <Miner name="phi">
     <Algo>phi</Algo>
     <Enabled>False</Enabled>
@@ -156,18 +132,6 @@
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
-  <Miner name="equihash192">
-    <Algo>equihash192</Algo>
-    <Enabled>False</Enabled>
-    <Path></Path>
-    <Parameters>--algo 192_7 --pers ZERO_PoW</Parameters>
-    <ConnectionString>ConnectionString</ConnectionString>
-    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
-    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
-    <MRRId>0</MRRId>
-    <PreRunPath></PreRunPath>
-  </Miner>
   <Miner name="skein">
     <Algo>skein</Algo>
     <Enabled>False</Enabled>
@@ -182,14 +146,26 @@
   </Miner>
   <Miner name="hashimotos">
     <Algo>hashimotos</Algo>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Path>C:\AutoMiner\Miners\Claymore's Dual Ethereum v11.9 cuda 9.1\EthDcrMiner64.exe</Path>
     <Parameters>-esm 2 -allpools 1 -allpools 1</Parameters>
-    <ConnectionString>stratum+tcp://us-east01.miningrigrentals.com:3344</ConnectionString>
-    <UserString>jhanson107:98503</UserString>
-    <PasswordString></PasswordString>
-    <HashRate>300</HashRate>
-    <MRRId>98503</MRRId>
+    <ConnectionString>ConnectionString</ConnectionString>
+    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
+    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
+    <HashRate>0</HashRate>
+    <MRRId>0</MRRId>
+    <PreRunPath></PreRunPath>
+  </Miner>
+  <Miner name="hex">
+    <Algo>hex</Algo>
+    <Enabled>False</Enabled>
+    <Path></Path>
+    <Parameters>-a hex</Parameters>
+    <ConnectionString>ConnectionString</ConnectionString>
+    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
+    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
+    <HashRate>0</HashRate>
+    <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
 </Miners>
