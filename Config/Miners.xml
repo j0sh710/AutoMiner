@@ -168,4 +168,16 @@
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
   </Miner>
+    <Miner name="equihash144">
+    <Algo>equihash144</Algo>
+    <Enabled>True</Enabled>
+    <Path></Path>
+    <Parameters>--algo 144_5 --pers auto</Parameters>
+    <ConnectionString>ConnectionString</ConnectionString>
+    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
+    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
+    <HashRate>0.000305</HashRate>
+    <MRRId>0</MRRId>
+    <PreRunPath></PreRunPath>
+  </Miner>
 </Miners>
