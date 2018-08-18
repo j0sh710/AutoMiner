@@ -1,48 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Coins>
   <Coin>
-    <Enabled>False</Enabled>
-    <Name>Ravencoin</Name>
+    <Enabled>True</Enabled>
     <Algo>x16r</Algo>
+    <Name>RVN</Name>
+    <Host>rvn.suprnova.cc</Host>
+    <Port>6667</Port>
+    <User>jhanson107.rig1</User>
+    <Password>x</Password>
+  </Coin>
+  <Coin>
+    <Enabled>True</Enabled>
+    <Algo>x16r</Algo>
+    <Name>Ravencoin</Name>
     <Host>rvn.suprnova.cc</Host>
     <Port>6667</Port>
     <User>jhanson107.Rig1</User>
-    <Password>x</Password>
-  </Coin>
-  <Coin>
-    <Enabled>False</Enabled>
-    <Name>Verge_Lyra2REv2</Name>
-    <Algo>lyra2v2</Algo>
-    <Host>xvg-lyra.suprnova.cc</Host>
-    <Port>2595</Port>
-    <User>jhanson107.rig1</User>
-    <Password>x</Password>
-  </Coin>
-  <Coin>
-    <Enabled>False</Enabled>
-    <Name>Monacoin</Name>
-    <Algo>lyra2v2</Algo>
-    <Host>mona.suprnova.cc</Host>
-    <Port>2995</Port>
-    <User>jhanson107.rig1</User>
-    <Password>x</Password>
-  </Coin>
-  <Coin>
-    <Enabled>False</Enabled>
-    <Name>Pigeoncoin</Name>
-    <Algo>x16s</Algo>
-    <Host>pign.suprnova.cc</Host>
-    <Port>4096</Port>
-    <User>jhanson107.rig1</User>
-    <Password>x</Password>
-  </Coin>
-  <Coin>
-    <Enabled>False</Enabled>
-    <Name>Ethereum</Name>
-    <Algo>hashimotos</Algo>
-    <Host>us1.ethpool.org</Host>
-    <Port>3333</Port>
-    <User>0xCED6384A6bbbD973001D47CC368C2bb06A728A91</User>
     <Password>x</Password>
   </Coin>
 </Coins>

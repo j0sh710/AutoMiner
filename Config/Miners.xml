@@ -3,7 +3,7 @@
   <Miner name="x16r">
     <Algo>x16r</Algo>
     <Enabled>False</Enabled>
-    <Path>C:\AutoMiner\Miners\z-enemy.1-12-cuda9.2\z-enemy.exe</Path>
+    <Path></Path>
     <Parameters>-a x16r</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
@@ -11,6 +11,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>x16r</MRRAlgoName>
   </Miner>
   <Miner name="x16s">
     <Algo>x16s</Algo>
@@ -23,6 +24,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>x16s</MRRAlgoName>
   </Miner>
   <Miner name="tribus">
     <Algo>tribus</Algo>
@@ -35,6 +37,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>tribus</MRRAlgoName>
   </Miner>
   <Miner name="lyra2z">
     <Algo>lyra2z</Algo>
@@ -47,11 +50,12 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>lyra2z</MRRAlgoName>
   </Miner>
   <Miner name="lyra2v2">
     <Algo>lyra2v2</Algo>
     <Enabled>False</Enabled>
-    <Path>C:\AutoMiner\Miners\CryptoDredge_0.7.0\CryptoDredge.exe</Path>
+    <Path></Path>
     <Parameters>-a lyra2v2 --no-watchdog</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
@@ -59,6 +63,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>lyra2rev2</MRRAlgoName>
   </Miner>
   <Miner name="x17">
     <Algo>x17</Algo>
@@ -71,6 +76,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>x17</MRRAlgoName>
   </Miner>
   <Miner name="neoscrypt">
     <Algo>neoscrypt</Algo>
@@ -83,6 +89,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>neoscrypt</MRRAlgoName>
   </Miner>
   <Miner name="xevan">
     <Algo>xevan</Algo>
@@ -95,18 +102,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
-  </Miner>
-  <Miner name="hsr">
-    <Algo>hsr</Algo>
-    <Enabled>False</Enabled>
-    <Path></Path>
-    <Parameters>-a hsr</Parameters>
-    <ConnectionString>ConnectionString</ConnectionString>
-    <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
-    <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0</HashRate>
-    <MRRId>0</MRRId>
-    <PreRunPath></PreRunPath>
+    <MRRAlgoName>xevan</MRRAlgoName>
   </Miner>
   <Miner name="phi">
     <Algo>phi</Algo>
@@ -119,6 +115,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>phi1612</MRRAlgoName>
   </Miner>
   <Miner name="phi2">
     <Algo>phi2</Algo>
@@ -131,6 +128,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>phi2</MRRAlgoName>
   </Miner>
   <Miner name="skein">
     <Algo>skein</Algo>
@@ -143,11 +141,12 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>skein</MRRAlgoName>
   </Miner>
   <Miner name="hashimotos">
     <Algo>hashimotos</Algo>
     <Enabled>False</Enabled>
-    <Path>C:\AutoMiner\Miners\Claymore's Dual Ethereum v11.9 cuda 9.1\EthDcrMiner64.exe</Path>
+    <Path></Path>
     <Parameters>-esm 2 -allpools 1 -allpools 1</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
@@ -155,6 +154,7 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>hashimotos</MRRAlgoName>
   </Miner>
   <Miner name="hex">
     <Algo>hex</Algo>
@@ -167,17 +167,19 @@
     <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>hex</MRRAlgoName>
   </Miner>
-    <Miner name="equihash144">
+  <Miner name="equihash144">
     <Algo>equihash144</Algo>
-    <Enabled>True</Enabled>
+    <Enabled>False</Enabled>
     <Path></Path>
     <Parameters>--algo 144_5 --pers auto</Parameters>
     <ConnectionString>ConnectionString</ConnectionString>
     <UserString>3KChFSUDhX54vbg2ukFekN4TZEPFSuy6Yw</UserString>
     <PasswordString>ID=AutoMiner1,c=BTC</PasswordString>
-    <HashRate>0.000305</HashRate>
+    <HashRate>0</HashRate>
     <MRRId>0</MRRId>
     <PreRunPath></PreRunPath>
+    <MRRAlgoName>zhash</MRRAlgoName>
   </Miner>
 </Miners>

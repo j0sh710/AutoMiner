@@ -27,5 +27,7 @@
     <NHApiKey>x</NHApiKey>
     <NiceHashEnabled>True</NiceHashEnabled>
     <Region>usa</Region>
+    <MRRIncreasePercent2>20</MRRIncreasePercent2>
+    <MRRRentedPercent>20</MRRRentedPercent>
   </Setting>
 </Settings>
