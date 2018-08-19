@@ -29,5 +29,6 @@
     <Region>usa</Region>
     <MRRIncreasePercent2>20</MRRIncreasePercent2>
     <MRRRentedPercent>20</MRRRentedPercent>
+    <DonationTimeExtension>0</DonationTimeExtension>
   </Setting>
 </Settings>
