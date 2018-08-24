@@ -3,5 +3,5 @@
     <version>1.5.1.0</version>
     <url>https://github.com/j0sh710/AutoMiner/archive/V1.5.1.zip</url>
     <changelog>https://github.com/j0sh710/AutoMiner/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
