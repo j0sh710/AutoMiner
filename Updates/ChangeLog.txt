@@ -1,4 +1,2 @@
-Release Notes:
-
-V1.5.6:
-Auto Updates
+# V1.5.6 #
+-Added automatic checks for updates on startup.
