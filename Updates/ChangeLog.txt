@@ -1,2 +1,6 @@
+# V1.5.7 #
+-Added LTC/d and ETH/d for MRR.
+-Updates Check automatically now.
+
 # V1.5.6 #
 -Added automatic checks for updates on startup.
