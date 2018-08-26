@@ -19,7 +19,7 @@ https://discord.gg/dqASSme
 
 ***For Detail Setup Please View AutoMiner_Setup.pdf***
 
-1. Unzip All Files from latest release.
+1. Unzip All Files from latest release and run installer.
 2. Obtain MRR API Key and Secret with "Manage Rigs" rights and update Config/Settings.xml file with API keys and Address (BTC).
 3. Launch WpfAppAutoMiner.exe and Update the Miner Configuration.
 4. After you have enabled and configured the miners you would like select your "MRR Prefered Pool" and click "Create MRR Rigs". The software will create your rigs on the MRR website.
