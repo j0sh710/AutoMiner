@@ -1,7 +1,7 @@
 # V1.5.7 #
--Added LTC/d and ETH/d for MRR.
--Updates Check automatically now.
--Added internet connectivity check. (Pings google.com)
+-Added LTC/d and ETH/d for MRR
+-Updates Check automatically
+-Added internet connectivity check (Pings google.com)
 
 # V1.5.6 #
--Added automatic checks for updates on startup.
+-Added automatic checks for updates on startup
