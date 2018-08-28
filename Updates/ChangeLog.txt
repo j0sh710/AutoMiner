@@ -1,3 +1,8 @@
+# V1.6.0 #
+-Added LTC/d support with ZergPool <ZergPoolPayoutCoin>LTC</ZergPoolPayoutCoin>
+-Settings.xml backup created. If Config/Settings.xml fails to load AutoMiner uses Config/Backup/Settings.xml
+-Added Hash Rate Graphs. AutoMiner will attempt to use miners api to Log Hash Rate. Please report miners that do not work.
+
 # V1.5.7 #
 -Added LTC/d and ETH/d for MRR
 -Updates Check automatically
