@@ -1,3 +1,6 @@
+# V1.6.1 #
+-Ability to disable "Log Hash Rate"
+
 # V1.6.0 #
 -Added LTC/d support with ZergPool <ZergPoolPayoutCoin>LTC</ZergPoolPayoutCoin>
 -Settings.xml backup created. If Config/Settings.xml fails to load AutoMiner uses Config/Backup/Settings.xml
