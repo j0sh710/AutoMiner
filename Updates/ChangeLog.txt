@@ -1,3 +1,6 @@
+# V1.6.2 #
+-Removed internet connection check which may have been causing freeze issue.
+
 # V1.6.1 #
 -Ability to disable "Log Hash Rate"
 
