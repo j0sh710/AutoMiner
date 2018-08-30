@@ -1,3 +1,9 @@
+# V1.6.4 #
+-Fixed freezing issue
+-Fixed graphing issue with Hash Rate Graphs
+-Fixed false attempt at setting MRR Pool when MRR Id = 0
+-Fixed internet connectivity check
+
 # V1.6.2 #
 -Removed internet connection check which may have been causing freeze issue.
 
