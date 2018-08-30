@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.6.4.0</version>
-    <url>https://github.com/j0sh710/AutoMiner/raw/master/AutoMinerInstallerV1.6.4.exe</url>
+    <version>1.6.6.0</version>
+    <url>https://github.com/j0sh710/AutoMiner/raw/master/AutoMinerInstallerV1.6.6.exe</url>
     <changelog>https://raw.githubusercontent.com/j0sh710/AutoMiner/master/Updates/ChangeLog.txt</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
