@@ -1,3 +1,7 @@
+# V1.6.6 #
+-Improved MRR Managed Pricing and added *HOT* to log when MRR Hot Increase % is used.
+-Added ability to enable and disable algos to switch between. Allows you to switch between a few algos but rent on all algos.
+
 # V1.6.4 #
 -Fixed freezing issue
 -Fixed graphing issue with Hash Rate Graphs
