@@ -1,3 +1,10 @@
+# V1.7.2 #
+-CPU Support added
+-Cleand up UI by removing some of the less important features. (You can still make edit advanced settings by editing you config files.)
+-Improved internet connection check. Internet check will only fail is both 1.1.1.1 (Cloudflare) and 8.8.8.8 (Google) fail.
+-Added hash rate average to Hash Rate Graphs tab.
+-Other bug fixes.
+
 # V1.6.7 #
 -Fixed bug where new AlgoSwitch was not saving to the Miners.xml
 
