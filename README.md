@@ -14,6 +14,8 @@ https://discord.gg/dqASSme
 7. Manage MiningRigRentals.com pricing with MRR Minimum Limit and % Increase from algo switching pools estimate or MRR suggested pricing.
 8. Auto closes detached miners that should not be open.
 9. Make all of your MiningRigRentals.com rigs available at once to increase odds of being rented and automatically disable when rented.
+10. Mine coins based on profitability from http://api.zergpool.com:8080/api/currencies and https://www.coincalculators.io/.
+11. Automatic update notifications.
 
 # Set Up
 
