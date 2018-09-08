@@ -1,6 +1,10 @@
+# V1.7.4 #
+-Enable/Disable specific algos from pools to fine tune algo switching when not rented
+-Bug Fixes
+
 # V1.7.3 #
 -Cryptonight V7 support
--Fixed bug with profit difference calculation.
+-Fixed bug with profit difference calculation
 
 # V1.7.2 #
 -CPU Support added
