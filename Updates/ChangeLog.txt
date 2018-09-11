@@ -1,46 +1,51 @@
+# V1.7.6 #
+-Enable/Disable LTC and ETH for rentals.
+-Fixed issue where Settings.xml would become corrupt in some cases.
+-Misc Bug Fixes.
+
 # V1.7.4 #
--Enable/Disable specific algos from pools to fine tune algo switching when not rented
--Bug Fixes
+-Enable/Disable specific algos from pools to fine tune algo switching when not rented.
+-Misc Bug Fixes.
 
 # V1.7.3 #
--Cryptonight V7 support
--Fixed bug with profit difference calculation
+-Cryptonight V7 support.
+-Fixed bug with profit difference calculation.
 
 # V1.7.2 #
--CPU Support added
+-CPU mining support has been added.
 -Cleand up UI by removing some of the less important features. (You can still make edit advanced settings by editing you config files.)
 -Improved internet connection check. Internet check will only fail is both 1.1.1.1 (Cloudflare) and 8.8.8.8 (Google) fail.
 -Added hash rate average to Hash Rate Graphs tab.
 -Other bug fixes.
 
 # V1.6.7 #
--Fixed bug where new AlgoSwitch was not saving to the Miners.xml
+-Fixed bug where new AlgoSwitch was not saving to the Miners.xml.
 
 # V1.6.6 #
 -Improved MRR Managed Pricing and added *HOT* to log when MRR Hot Increase % is used.
 -Added ability to enable and disable algos to switch between. Allows you to switch between a few algos but rent on all algos.
 
 # V1.6.4 #
--Fixed freezing issue
--Fixed graphing issue with Hash Rate Graphs
--Fixed false attempt at setting MRR Pool when MRR Id = 0
--Fixed internet connectivity check
+-Fixed a freezing issue.
+-Fixed a graphing issue with Hash Rate Graphs.
+-Fixed false attempt at setting MRR Pool when MRR Id = 0.
+-Fixed internet connectivity check.
 
 # V1.6.2 #
 -Removed internet connection check which may have been causing freeze issue.
 
 # V1.6.1 #
--Ability to disable "Log Hash Rate"
+-Ability to disable "Log Hash Rate".
 
 # V1.6.0 #
--Added LTC/d support with ZergPool <ZergPoolPayoutCoin>LTC</ZergPoolPayoutCoin>
--Settings.xml backup created. If Config/Settings.xml fails to load AutoMiner uses Config/Backup/Settings.xml
+-Added LTC/d support with ZergPool. <ZergPoolPayoutCoin>LTC</ZergPoolPayoutCoin>
+-Settings.xml backup created. If Config/Settings.xml fails to load AutoMiner uses Config/Backup/Settings.xml.
 -Added Hash Rate Graphs. AutoMiner will attempt to use miners api to Log Hash Rate. Please report miners that do not work.
 
 # V1.5.7 #
--Added LTC/d and ETH/d for MRR
--Updates Check automatically
--Added internet connectivity check (Pings google.com)
+-Added LTC/d and ETH/d for MRR.
+-Updates Check automatically.
+-Added internet connectivity check (Pings google.com).
 
 # V1.5.6 #
--Added automatic checks for updates on startup
+-Added automatic checks for updates on startup.
