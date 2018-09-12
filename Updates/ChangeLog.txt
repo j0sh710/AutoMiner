@@ -1,3 +1,9 @@
+# V1.7.7 #
+-Select All checkbox on pools page added.
+-Profit Selection 24hr Actual + MRR Lowest added.
+-Fixed bug for fresh install users.
+-Hash Rate Graphs are back for all algos on load.
+
 # V1.7.6 #
 -Enable/Disable LTC and ETH for rentals.
 -Fixed issue where Settings.xml would become corrupt in some cases.
