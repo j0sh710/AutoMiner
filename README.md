@@ -1,3 +1,5 @@
+![alt text](https://github.com/j0sh710/AutoMiner/blob/master/AutoMinerLogo.jpg)
+
 # Overview
 AutoMiner is a C# WPF algo switching application used in conjunction with MiningRigRentals. Depending on the Profit Selection you have selected AutoMiner will algo switch between the most profitable algos and also manage availablility of your rig on MiningRigRentals. If you rig is rented algo switching stops until the rental is complete.
 
