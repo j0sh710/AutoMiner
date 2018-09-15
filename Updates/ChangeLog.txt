@@ -1,3 +1,9 @@
+# V1.7.9 #
+-Improved internet connection check.
+-Added profit selection 24h Actual + Last 10 MRR. (Pricing based on last 10 rented rigs)
+-Added profit selection Current Estimate + Last 10 MRR. (Pricing based on last 10 rented rigs)
+-Added support for all of the "Cryptonight" style MRR algos. Example: cryptonoteh, cryptonotel1, cryptonotehaven, and cryptonotefast.
+
 # V1.7.7 #
 -Select All checkbox on pools page added.
 -Profit Selection 24hr Actual + MRR Lowest added.
