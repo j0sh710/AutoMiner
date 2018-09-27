@@ -1,3 +1,8 @@
+# V1.7.10 #
+-AVG Samples - Allows you to average the "Current Estimates" returned from the pool to stablilze algo switching. 
+-Rig will no longer go into reboot loops when rented and their is a renter related pool issue.
+-Rented Mining Only option allows you to only mine when rented to conserve energy.
+
 # V1.7.9 #
 -Improved internet connection check.
 -Added profit selection 24h Actual + Last 10 MRR. (Pricing based on last 10 rented rigs)
