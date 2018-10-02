@@ -1,3 +1,12 @@
+# V1.9.0 #
+-Seperated Profit Selection from Pricing Selection. 
+-Added Zpool.ca
+-Added User Currency. Allows you to report earnings using coinbase exchange rates. Report earning in USD for example. 
+-Accept DASH option added.
+-Pricing selection "AVERAGE" added. Pricing is the average of MRR Suggested + MRR Lowest + MRR Last 10.
+-Fixed switch tolerance bug.
+-Fixed pricing bug.
+
 # V1.8.0 #
 -AVG Samples - Allows you to average the "Current Estimates" returned from the pool to stabilize algo switching. 
 -Rig will no longer go into reboot loops when rented and their is a renter related pool issue.
