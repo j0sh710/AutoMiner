@@ -1,3 +1,9 @@
+
+# V1.9.2 #
+-Support for tracking earnings from Zpool and ZergPool in LTC or BTC.
+-Hash rate tracking of Equihash192 with EWBF support added.
+-A few bug fixes.
+
 # V1.9.0 #
 -Seperated Profit Selection from Pricing Selection. 
 -Added Zpool.ca
