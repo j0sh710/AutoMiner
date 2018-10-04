@@ -1,3 +1,6 @@
+# V1.9.4 #
+-Bug fixes
+
 # V1.9.3 #
 -Dev Fee bug fixed :(
 
