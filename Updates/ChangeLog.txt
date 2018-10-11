@@ -1,3 +1,10 @@
+*IMPORTANT* Always consider backing up your config before updating.
+
+# V2.0.0 #
+-Managed miners feature added which allows easy update of miners and adding new algos to your miners.xml config.
+-Changes to the way rig maintains online status on MRR. With algos like CryptoNight the previous way was not working.
+-User currency exchange rate is now used in most locations to convert your BTC data into currency of your choise.
+
 # V1.9.4 #
 -Bug fixes
 
