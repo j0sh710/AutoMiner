@@ -1,5 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.1.0 #
+-ZergPool is shutting down. ZergPool removed from AutoMiner.
+
 # V2.0.0 #
 -Managed miners feature added which allows easy update of miners and adding new algos to your miners.xml config.
 -Changes to the way rig maintains online status on MRR. With algos like CryptoNight the previous way was not working.
