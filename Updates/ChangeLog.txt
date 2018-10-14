@@ -1,5 +1,10 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.1.1 #
+-Fixed MRR Port not updating to config when changed.
+-Improved benchmarking logic.
+-Small bug fixes.
+
 # V2.1.0 #
 -ZergPool is shutting down. ZergPool removed from AutoMiner.
 
