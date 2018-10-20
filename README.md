@@ -7,7 +7,7 @@ AutoMiner is a C# WPF algo switching application used in conjunction with Mining
 https://discord.gg/dqASSme
 
 # Features
-1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool, Nicehash, and ZergPool currently)
+1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool, Nicehash, and Zpool currently)
 2. Monitors miner crashes and automatically restarts crashed miners.
 3. Monitors GPU Temperatures and Utilization. If GPU Utilization drops too low miner restart is attempted. After 6 failures automatic reboot will occur. (Only if "Monitor GPU" is checked)
 4. Manages rig availability on MiningRigRentals.com while algo switching.
@@ -16,9 +16,10 @@ https://discord.gg/dqASSme
 7. Manage MiningRigRentals.com pricing with MRR Minimum Limit and % Increase from algo switching pools estimate or MRR suggested pricing.
 8. Auto closes detached miners that should not be open.
 9. Make all of your MiningRigRentals.com rigs available at once to increase odds of being rented and automatically disable when rented.
-10. Mine coins based on profitability from http://api.zergpool.com:8080/api/currencies and https://www.coincalculators.io/.
+10. Mine coins based on profitability from https://www.coincalculators.io/.
 11. Automatic update notifications.
 12. Graph Earnings and Hash Rate stats.
+13. Managed miners allows you to quickly download and update with latest suggested miners.
 
 # Set Up
 
