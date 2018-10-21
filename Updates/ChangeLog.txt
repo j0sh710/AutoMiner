@@ -1,5 +1,10 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.2.1 #
+-Improved code that keeps all rigs online.
+-Added "Add Miner" button to Config tab.
+-Added ability to delete miners from config.
+
 # V2.2.0 #
 -Updated code that maintains current MRR port to utilize new MRR API call. Should be more efficent.
 -Nicehash CN8 support
