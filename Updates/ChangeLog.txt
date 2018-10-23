@@ -1,5 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.2.3 #
+-Fixed bug that may prevent AutoMiner from loading in certain cases.
+-Improved port check/update to support back up MRR servers.
+
 # V2.2.1 #
 -Improved code that keeps all rigs online.
 -Added "Add Miner" button to Config tab.
