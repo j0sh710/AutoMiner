@@ -1,5 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.2.4 #
+-Fixed bug that may corrupt Backup config files.
+-Dev Fee is now 15 min per day.
+
 # V2.2.3 #
 -Fixed bug that may prevent AutoMiner from loading in certain cases.
 -Improved port check/update to support back up MRR servers.
