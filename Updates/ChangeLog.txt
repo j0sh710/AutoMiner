@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.2.5 #
+-Fixed bug that may cause AutoMiner to crash is connection to AutoMiner server fails.
+-Fixed bug where after reboot rental was not always detected.
 
 # V2.2.4 #
 -Fixed bug that may corrupt Backup config files.
