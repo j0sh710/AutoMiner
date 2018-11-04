@@ -1,5 +1,6 @@
 *IMPORTANT* Always consider backing up your config before updating.
-# V2.3.0 #
+
+# V2.3.1 #
 -Added overclock option. Requires MSI Afterburner. Download: http://download.msi.com/uti_exe//vga/MSIAfterburnerSetup.zip
 -Updated Parameters format to provide support for miners. Example: -a x16s -o stratum+tcp://[Server]:[Port] -u [User] -p [Password].
 -Fixed a few minor bugs.
