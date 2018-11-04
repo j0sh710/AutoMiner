@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.3.0 #
+-Added overclock option. Requires MSI Afterburner. Download: http://download.msi.com/uti_exe//vga/MSIAfterburnerSetup.zip
+-Updated Parameters format to provide support for miners. Example: -a x16s -o stratum+tcp://[Server]:[Port] -u [User] -p [Password].
+-Fixed a few minor bugs.
+
 # V2.2.5 #
 -Fixed bug that may cause AutoMiner to crash is connection to AutoMiner server fails.
 -Fixed bug where after reboot rental was not always detected.
