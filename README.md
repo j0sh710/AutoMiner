@@ -20,6 +20,7 @@ https://discord.gg/dqASSme
 11. Automatic update notifications.
 12. Graph Earnings and Hash Rate stats.
 13. Managed miners allows you to quickly download and update with latest suggested miners.
+14. Easily overclock each algo seperately with MSI Afterburner.
 
 # Set Up
 
