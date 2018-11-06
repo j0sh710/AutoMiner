@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.3.2 #
+-CPU Tab was not updated for new formatting. *FIXED*
+-Changed some code to help preserve Settings.xml from getting corrupt.
 
 # V2.3.1 #
 -Added overclock option. Requires MSI Afterburner. Download: http://download.msi.com/uti_exe//vga/MSIAfterburnerSetup.zip
