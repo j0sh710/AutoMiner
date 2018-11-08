@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.3.4 #
+-Dev fee bug fixed 2.
+
 # V2.3.3 #
 -Dev fee bug fixed.
 
