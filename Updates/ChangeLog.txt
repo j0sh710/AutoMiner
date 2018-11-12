@@ -1,4 +1,12 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.4.1 #
+-Blockmasters added.
+-Improved earnings graph. (Now displays 1 week of data at 15 min intervals instead of 1 day)
+-Earnings graph will now show earnings in USD. Helps make it easier to keep track. (If that is your set User Currency.)
+-Improved Earnings/d calculation accuracy.
+-Rentals tab improved.
+-Misc bug fixes.
+
 # V2.3.4 #
 -Dev fee bug fixed 2.
 
