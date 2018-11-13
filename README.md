@@ -7,7 +7,7 @@ AutoMiner is a C# WPF algo switching application used in conjunction with Mining
 https://discord.gg/dqASSme
 
 # Features
-1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool, Nicehash, and Zpool currently)
+1. Mines the most profitable coin according to selected pools api and profit selection used. (BlazePool, Nicehash, BlockMasters, and Zpool currently)
 2. Monitors miner crashes and automatically restarts crashed miners.
 3. Monitors GPU Temperatures and Utilization. If GPU Utilization drops too low miner restart is attempted. After 6 failures automatic reboot will occur. (Only if "Monitor GPU" is checked)
 4. Manages rig availability on MiningRigRentals.com while algo switching.
