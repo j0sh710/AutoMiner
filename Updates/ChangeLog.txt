@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+
+# V2.4.3 #
+-MRR Rig grouping added. (This will prevent duplicate rentals from occuring.)
+-Misc bug fixes.
+
 # V2.4.1 #
 -Blockmasters added.
 -Improved earnings graph. (Now displays 1 week of data at 15 min intervals instead of 1 day)
