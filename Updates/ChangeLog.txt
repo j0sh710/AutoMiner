@@ -1,4 +1,11 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.5.0 #
+-Updating rigs now only takes one api call. Using new MRR Batch update api call. (Thank you merc!)
+-Quick link buttons to view profit switching pools on Earnings tab.
+-New Pricing selection Flat Rate. (Uses Min (BTC/d) to set rig price.)
+-New Profit selection Current Estimate (Smart). This is beta concept to find the most profitable algos when not rented. This will detect upward trends in 24h actual price in effort to find algos that have recently found blocks. This feature has some addiontal filtering and is still subject to change after some feedback.
+-New Pool Stats History tab which displays 10 minutes of time stamped previous pool stats data. This data is used to detect trends upward trends in pricing for the new Current Estimate (Smart) profit selection.
+-Rentals calculation error fixed.
 
 # V2.4.3 #
 -MRR Rig grouping added. (This will prevent duplicate rentals from occuring.)
