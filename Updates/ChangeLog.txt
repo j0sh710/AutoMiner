@@ -1,4 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.5.2 #
+-Bug fixes
+-Improved Current Estimate (Smart) logic.
+
 # V2.5.0 #
 -Updating rigs now only takes one api call. Using new MRR Batch update api call. (Thank you merc!)
 -Quick link buttons to view profit switching pools on Earnings tab.
