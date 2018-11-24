@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.5.3 #
+-Dev fee checkpoints. (Every 5 minutes during the dev fee sessions your dev fee time is subtracted.)
+
 # V2.5.2 #
 -Bug fixes
 -Improved Current Estimate (Smart) logic.
