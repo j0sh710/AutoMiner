@@ -1,4 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.5.5 #
+-Realtime GPU Stats can be disabled. (If you are having stability issues try this.)
+-Hash rate Unit column added.
+
 # V2.5.3 #
 -Dev fee checkpoints. (Every 5 minutes during the dev fee sessions your dev fee time is subtracted.)
 
