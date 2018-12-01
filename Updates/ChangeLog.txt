@@ -4,7 +4,6 @@
 -Fixed CPU rigs not staying available.
 -Fixed bug with Nicehash wallet address when MRR was disabled.
 
-
 # V2.5.5 #
 -Realtime GPU Stats can be disabled. (If you are having stability issues try this.)
 -Hash rate Unit column added.
