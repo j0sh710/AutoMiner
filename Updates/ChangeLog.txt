@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.0 #
+-Updated look and feel of app.
+-Fixed Managed Miners not saving changes to parameters.
+-Fixed rented mining only not working.
+
 # V2.5.6 #
 -Fixed Add miner button not working.
 -Fixed CPU rigs not staying available.
