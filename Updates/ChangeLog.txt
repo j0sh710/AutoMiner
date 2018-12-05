@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.1 #
+-Managed Miners bug fixed.
+-Frozen columns added on config pages.
+-Fixed a few other bugs as well for less common cases.
+
 # V2.6.0 #
 -Updated look and feel of app.
 -Fixed Managed Miners not saving changes to parameters.
