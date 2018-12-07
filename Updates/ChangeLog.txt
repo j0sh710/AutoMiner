@@ -1,4 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.2 #
+-Save Config no longer requires stopping the miner.
+-Earning calculation for MRR improved.
+
 # V2.6.1 #
 -Managed Miners bug fixed.
 -Frozen columns added on config pages.
