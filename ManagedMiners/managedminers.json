@@ -1,8 +1,8 @@
 [
   {
     "groupid": 0,
-    "path": "T-Rex\\0.8.5-Cuda10.0\\t-rex.exe",
-    "url": "t-rex-0.8.5-win-cuda10.0.zip",
+    "path": "T-Rex\\0.8.6-Cuda10.0\\t-rex.exe",
+    "url": "https://github.com/trexminer/T-Rex/releases/download/0.8.6/t-rex-0.8.6-win-cuda10.0.zip",
     "algolist": "x16r,x16s,x17,balloon,polytimos,tribus,bcd,bitcore,x22i,x21s,timetravel,skunk",
     "algos": [
       {
@@ -69,46 +69,8 @@
   },
   {
     "groupid": 0,
-    "path": "ccminerKlausTyescryptv10\\ccminer.exe",
-    "url": "ccminerKlausTyescryptv10.zip",
-    "algolist": "yescrypt,yescryptR8,yescryptR16,yescryptR24,yescryptR16v2,yescryptr32",
-    "algos": [
-      {
-        "name": "yescrypt",
-        "mrrname": "yescrypt",
-        "parameter": "-a yescrypt -b 4068 -i 12.5 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      },
-      {
-        "name": "yescryptR8",
-        "mrrname": "yescryptr8",
-        "parameter": "-a yescryptR8 -b 4068 -i 12.5 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      },
-      {
-        "name": "yescryptR16",
-        "mrrname": "yescryptr16",
-        "parameter": "-a yescryptR16 -b 4068 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      },
-      {
-        "name": "yescryptR24",
-        "mrrname": "yescryptr24",
-        "parameter": "-a yescryptR24 -b 4068 -i 12.5 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      },
-      {
-        "name": "yescryptR16v2",
-        "mrrname": "yescryptr16v2",
-        "parameter": "-a yescryptR16v2 -b 4068 -i 12.5 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      },
-      {
-        "name": "yescryptR32",
-        "mrrname": "yescryptr32",
-        "parameter": "-a yescryptR32 -b 4068 -i 12.5 -o stratum+tcp://[Server]:[Port] -u [User] -p [Password]"
-      }
-    ]
-  },
-  {
-    "groupid": 0,
-    "path": "CryptoDredge\\0.13.0-Cuda10.0\\CryptoDredge.exe",
-    "url": "CryptoDredge_0.13.0_cuda_10.0.zip",
+    "path": "CryptoDredge\\Cuda10.0\\CryptoDredge_0.14.0\\CryptoDredge.exe",
+    "url": "https://github.com/technobyl/CryptoDredge/releases/download/v0.14.0/CryptoDredge_0.14.0_cuda_10.0_windows.zip",
     "algolist": "allium,lyra2v2,lyra2z,neoscrypt,phi2,hmq1725",
     "algos": [
       {
@@ -209,8 +171,8 @@
   },
   {
     "groupid": 1,
-    "path": "T-Rex\\0.8.5-Cuda9.1\\t-rex.exe",
-    "url": "t-rex-0.8.5-win-cuda9.1.zip",
+    "path": "T-Rex\\0.8.6-Cuda9.1\\t-rex.exe",
+    "url": "https://github.com/trexminer/T-Rex/releases/download/0.8.6/t-rex-0.8.6-win-cuda9.1.zip",
     "algolist": "x16r,x16s,x17,bcd,balloon,polytimos,skunk,bitcore,c11,hmq1725,x21s,x22i,timetravel,hmq1725",
     "algos": [
       {
@@ -282,8 +244,8 @@
   },
   {
     "groupid": 1,
-    "path": "CryptoDredge\\0.9.6-Cuda9.1\\CryptoDredge.exe",
-    "url": "CryptoDredge_0.9.6_cuda_9.1.zip",
+    "path": "CryptoDredge\\Cuda9.1\\CryptoDredge_0.14.0\\CryptoDredge.exe",
+    "url": "https://github.com/technobyl/CryptoDredge/releases/download/v0.14.0/CryptoDredge_0.14.0_cuda_9.1_windows.zip",
     "algolist": "allium,lyra2v2,lyra2z,neoscrypt,phi2,cryptonightv7,cryptonightheavy,tribus,cryptonightv8",
     "algos": [
       {
@@ -399,8 +361,8 @@
   },  
   {
     "groupid": 2,
-    "path": "T-Rex\\0.8.5-Cuda9.2\\t-rex.exe",
-    "url": "t-rex-0.8.5-win-cuda9.2.zip",
+    "path": "T-Rex\\0.8.6-Cuda9.2\\t-rex.exe",
+    "url": "https://github.com/trexminer/T-Rex/releases/download/0.8.6/t-rex-0.8.6-win-cuda9.2.zip",
     "algolist": "x16r,x16s,x17,balloon,polytimos,tribus,bcd,bitcore,x22i,x21s,timetravel,skunk",
     "algos": [
       {
@@ -467,8 +429,8 @@
   },
   {
     "groupid": 2,
-    "path": "CryptoDredge\\0.13.0-Cuda9.2\\CryptoDredge.exe",
-    "url": "CryptoDredge_0.13.0_cuda_9.2.zip",
+    "path": "CryptoDredge\\Cuda9.2\\CryptoDredge_0.14.0\\CryptoDredge.exe",
+    "url": "https://github.com/technobyl/CryptoDredge/releases/download/v0.14.0/CryptoDredge_0.14.0_cuda_9.2_windows.zip",
     "algolist": "allium,lyra2v2,lyra2z,neoscrypt,phi2,hmq1725",
     "algos": [
       {
