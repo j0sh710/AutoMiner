@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "type": "GPU",
+    "name": "Nvidia GPU Cuda 10.0 (Drivers 415+)"
+  },
+  {
+    "id": 1,
+    "type": "GPU",
+    "name": "Nvidia GPU Cuda 9.1 (Drivers 388+)"
+  },
+  {
+    "id": 2,
+    "type": "GPU",
+    "name": "Nvidia GPU Cuda 9.2 (Drivers 398+)"
+  },
+  {
+    "id": 3,
+    "type": "GPU",
+    "name": "AMD"
+  }
+]
