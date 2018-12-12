@@ -1,4 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.4 #
+-Added Nicehash Zhash support. (Only works with EWBF.)
+-Few other minor changes.
+
 # V2.6.3 #
 -CPU Bug fixed
 -Earnings from MRR is based on the average of your MRR Max Hours. Example: Max hours is 48 hours the calculation is based on your average btc/d over a 48 hours period.
