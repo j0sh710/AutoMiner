@@ -1,6 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
 # V2.6.5 #
 -Added Region for ZPool.
+-Hash Rate Graphs only shows graphs with data.
 
 # V2.6.4 #
 -Added Nicehash Zhash support. (Only works with EWBF.)
