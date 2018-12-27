@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.8 #
+-Added MRR Stats tab.
+
 # V2.6.7 #
 -Earnings per day calc improved for MRR.
 
