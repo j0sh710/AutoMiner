@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.6.9 #
+-Added CPU and GPU Process priority option.
+
 # V2.6.8 #
 -Added MRR Stats tab.
 
