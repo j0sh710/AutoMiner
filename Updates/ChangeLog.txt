@@ -1,7 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
 # V2.7.0 #
 -Added ZergPool
--Added User Stats on MRR Stats tab. (Ratex * UserHashRate)
+-Added User Stats on MRR Stats tab. (Rate * UserHashRate)
 -Removed clearing Pool 0.
 -Fixed estimate for Grin (cuckoocycle).
 
