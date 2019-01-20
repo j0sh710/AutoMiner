@@ -1,4 +1,7 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.7.2 #
+-Improved MRR Stats Tab further.
+
 # V2.7.1 #
 -Bug Fix
 
