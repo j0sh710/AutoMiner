@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.7.4 #
+-Added Clear Pool 0 back. (Required unfortunately).
+-Fixed a bug related to keeping CPU rigs online.
+-Fixed bug for coin calculations.
+
 # V2.7.2 #
 -Improved MRR Stats Tab further.
 
