@@ -1,4 +1,10 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.8.0 #
+-Added worker name to title bar.
+-Rig price stays updated during rentals.
+-Added a token based system to allow me to offer a way for users to pay dev fee upfront with BTC rather then mining time. Please contact me in Discord if you prefer this over the current dev fee structure and we can set this up for you.
+-Few other bug fixes.
+
 # V2.7.4 #
 -Added Clear Pool 0 back. (Required unfortunately).
 -Fixed a bug related to keeping CPU rigs online.
