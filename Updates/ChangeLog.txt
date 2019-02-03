@@ -1,4 +1,10 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.8.1 #
+-Fixed Nicehash wallet link on earnings tab.
+-Added Nicehash algos Lyra2rev3, beam, and grin.
+-Fixed ZergPool earnings not saving.
+-Rentals tab will not show rentals with "TOTAL PAID" = 0.
+
 # V2.8.0 #
 -Added worker name to title bar.
 -Rig price stays updated during rentals.
