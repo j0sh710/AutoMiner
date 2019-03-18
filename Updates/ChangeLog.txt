@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.9.0 #
+-API to support Foreman. (http://localhost:1234/summary -https://dashboard.foreman.mn/ -Awesome online rig monitoring dashboard!) 
+-T-Rex restarts automatically if too many rejected shares are found.
+-Other bug fixes.
+
 # V2.8.1 #
 -Fixed Nicehash wallet link on earnings tab.
 -Added Nicehash algos Lyra2rev3, beam, and grin.
