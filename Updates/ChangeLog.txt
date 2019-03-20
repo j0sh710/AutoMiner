@@ -1,4 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V2.9.1 #
+-MTP algo Nicehash support added.
+-TTMiner support added.
+-T-Rex restart bug fixed.
+
 # V2.9.0 #
 -API to support Foreman. (http://localhost:1234/summary -https://dashboard.foreman.mn/ -Awesome online rig monitoring dashboard!) 
 -T-Rex restarts automatically if too many rejected shares are found.
