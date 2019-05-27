@@ -1,5 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.9.3 #
+-Added BCH support with MiningRigRentals.com
+
 # V2.9.2 #
 -Fixed bug with api call for hash rate with GMiner.
 
