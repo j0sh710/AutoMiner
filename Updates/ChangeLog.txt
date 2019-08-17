@@ -1,5 +1,9 @@
 *IMPORTANT* Always consider backing up your config before updating.
 
+# V2.9.5 #
+-Fixed bug with "Test" miner button due to Windows Update.
+-Few small minor bug fixes.
+
 # V2.9.3 #
 -Added BCH support with MiningRigRentals.com
 
