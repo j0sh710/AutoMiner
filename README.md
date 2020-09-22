@@ -36,4 +36,4 @@ https://discord.gg/dqASSme
 5. Save config and start mining.
 
 # Dev Fee
-1. There is a 15 minute per day dev fee (1%). Dev fee will not activate when rented.
+1. There is no longer a dev fee.
