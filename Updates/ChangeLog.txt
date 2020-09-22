@@ -1,4 +1,8 @@
 *IMPORTANT* Always consider backing up your config before updating.
+# V3.0.0 #
+-Removed Dev Fee
+-Removed Managed Miners
+-Added new MRR servers
 
 # V2.9.6 #
 -Fixed more bugs created by windows update.
